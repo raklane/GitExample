@@ -1,1 +1,2 @@
 this is a new file
+adding a second line to this file to check pre-receive hook
